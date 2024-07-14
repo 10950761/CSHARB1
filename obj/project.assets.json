@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/godfred/Documents/CSharp/Project3/Project3.csproj",
-      "projectName": "Project3",
-      "projectPath": "/home/godfred/Documents/CSharp/Project3/Project3.csproj",
+      "projectUniqueName": "/home/godfred/Documents/CSharp/Project 0/Project 0.csproj",
+      "projectName": "Project 0",
+      "projectPath": "/home/godfred/Documents/CSharp/Project 0/Project 0.csproj",
       "packagesPath": "/home/godfred/.nuget/packages/",
-      "outputPath": "/home/godfred/Documents/CSharp/Project3/obj/",
+      "outputPath": "/home/godfred/Documents/CSharp/Project 0/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/godfred/.nuget/NuGet/NuGet.Config"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
